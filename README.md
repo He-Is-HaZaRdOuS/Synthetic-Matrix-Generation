@@ -1,4 +1,5 @@
-# Matrix-Generation
+# Synthetic-Matrix-Generation
+
 Next-gen matrix generation with optimization.
 
 ## Overview
@@ -11,6 +12,8 @@ This project focuses on generating and optimizing matrices for various applicati
 
 `compute_loss.py`: Functionality to compute loss metrics for matrix optimization.
 
+`matrices_list.txt`: Contains a list of desired matrices to expand.
+
 `matrix_properties_list.txt`: Contains a list of desired matrix properties for reference.
 
 `original-matrices/`: Directory containing the original, unmodified matrices.
@@ -22,7 +25,7 @@ This project focuses on generating and optimizing matrices for various applicati
 ## Getting Started
 1) Clone the Repository:
 ```
-git clone https://github.com/farukaplan/Matrix-Generation.git
+git clone https://github.com/He-Is-HaZaRdOuS/Synthetic-Matrix-Generation
 cd Matrix-Generation
 ```
 2) Install Dependencies: Ensure you have Python installed. Install any necessary packages using:
